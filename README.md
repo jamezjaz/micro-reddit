@@ -1,5 +1,6 @@
 # Micro-Reddit
 This is a project built based on the Active Record (Model) principle. It is built with Ruby on Rails frame work.
+Here, we generated the user, post, and comment models. We also created the models' associations and validated the various columns.
 
 ## Stack
 - Language: Ruby 2.6.5
@@ -37,29 +38,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
-
-
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
